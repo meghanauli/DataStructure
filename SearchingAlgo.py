@@ -11,3 +11,5 @@ print(a.count(6))
 #Binary search using bisect
 pos = bisect.bisect_left(a,6)
 print("Index: ",pos)
+
+print("test asdf")
